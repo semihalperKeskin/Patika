@@ -1,0 +1,15 @@
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\bin\Debug\net6.0\C# 101 - 5.exe
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\bin\Debug\net6.0\C# 101 - 5.deps.json
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\bin\Debug\net6.0\C# 101 - 5.runtimeconfig.json
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\bin\Debug\net6.0\C# 101 - 5.dll
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\bin\Debug\net6.0\C# 101 - 5.pdb
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.csproj.AssemblyReference.cache
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.AssemblyInfoInputs.cache
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.AssemblyInfo.cs
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.csproj.CoreCompileInputs.cache
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.dll
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\refint\C# 101 - 5.dll
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.pdb
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\C# 101 - 5.genruntimeconfig.cache
+C:\Users\salpe\OneDrive\Masaüstü\Pratikler\C# 101 - 5\obj\Debug\net6.0\ref\C# 101 - 5.dll
